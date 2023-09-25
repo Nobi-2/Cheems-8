@@ -1490,9 +1490,9 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed()
             let latensie = speed() - timestampe
             xeonezy = `┌─❖
-│ Hi 👋 
+│ Hi 🐈‍⬛ 
 └┬❖  ${pushname} 
-┌┤✑  ${xeonytimewisher} 😄
+┌┤✑  ${xeonytimewisher} 😶
 │└────────────┈ ⳹
 │
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
@@ -2302,14 +2302,14 @@ case 'poll': {
 
 *Reason:* ${vote[m.chat][0]}
 
-┌〔 UPVOTE 〕
+┌〔 UPVOTE 〕🖤
 │ 
 ├ Total: ${vote[m.chat][1].length}
 │
 │ 
 └────
 
-┌〔 DOWNVOTE 〕
+┌〔 DOWNVOTE 〕🖤
 │ 
 ├ Total: ${vote[m.chat][2].length}
 │
@@ -3193,7 +3193,7 @@ if (!m.isGroup) return XeonStickGroup()
 if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
 if (!isBotAdmins) return XeonStickBotAdmin()
 me = m.sender
-let teks = `╚»˙·٠${themeemoji}●♥ Tag All ♥●${themeemoji}٠·˙«╝ 
+let teks = `╚»˙·٠${themeemoji}●🖤 Tag All 🖤●${themeemoji}٠·˙«╝ 
  
  😶 *Tagger :*  @${me.split('@')[0]}
  🌿 *Message : ${q ? q : 'no message'}*\n\n`
@@ -6056,7 +6056,7 @@ break
 XeonBotInc.sendMessage(m.chat,
 { text: `👫Your Soulmate Is
 
-@${me.split('@')[0]} ❤️ @${jodoh.split('@')[0]}`,
+@${me.split('@')[0]} 🖤 @${jodoh.split('@')[0]}`,
 contextInfo:{
 mentionedJid:[me, jodoh],
 forwardingScore: 9999999,
@@ -6079,8 +6079,8 @@ isForwarded: true,
             let orang = member[Math.floor(Math.random() * member.length)]
             let jodoh = member[Math.floor(Math.random() * member.length)]
 XeonBotInc.sendMessage(m.chat,
-{ text: `@${orang.split('@')[0]} ❤️ @${jodoh.split('@')[0]}
-Cieeee, What's Going On❤️💖👀`,
+{ text: `@${orang.split('@')[0]} 🖤 @${jodoh.split('@')[0]}
+Cieeee, What's Going On🖤👀`,
 contextInfo:{
 mentionedJid:[orang, jodoh],
 forwardingScore: 9999999,
