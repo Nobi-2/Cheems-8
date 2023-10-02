@@ -30,7 +30,7 @@ global.location = "India, " //ur location
 
 //new
 global.botname = "ɳσႦι🐈‍⬛"
-global.ownernumber = '916909137213'
+global.ownernumber = '917000562148'
 global.ownername = 'ɳσႦιƚα🐈‍⬛'
 global.ownerNumber = ["91700562148@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@badnobita776"
