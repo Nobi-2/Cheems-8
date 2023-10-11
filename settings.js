@@ -21,9 +21,9 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917000562148'] //ur owner number
+global.owner = ['917000562148','16096693520'] //ur owner number
 global.ownernomer = "919174493135" //ur owner number2
-global.ownername = "ɳσႦιƚα 🐈‍⬛" //ur owner name
+global.ownername = "ɳσႦιƚα🐈‍⬛" //ur owner name
 global.ytname = "YT: nobi" //ur yt chanel name
 global.socialm = "GitHub: nobi-2" //ur github or insta name
 global.location = "India, " //ur location
@@ -42,7 +42,7 @@ global.botscript = 'https://github.com/nobi-2/cheems8' //script link
 global.packname = "ɳσႦιƚα🐈‍⬛"
 global.author = "ɳσႦιƚα 🖤\n\n"
 global.creator = "917000562148@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','.','#','&','/',':']
 global.sessionName = 'session'
 global.hituet = 0
 
