@@ -21,7 +21,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917000562148','16096693520'] //ur owner number
+global.owner = ['919174493135','919179603804'] //ur owner number
 global.ownernomer = "919174493135" //ur owner number2
 global.ownername = "ɳσႦιƚα🐈‍⬛" //ur owner name
 global.ytname = "YT: nobi" //ur yt chanel name
@@ -30,18 +30,18 @@ global.location = "India, " //ur location
 
 //new
 global.botname = "ɳσႦι🐈‍⬛"
-global.ownernumber = '917000562148'
+global.ownernumber = '919174493135'
 global.ownername = 'ɳσႦιƚα🐈‍⬛'
-global.ownerNumber = ["91700562148@s.whatsapp.net"]
+global.ownerNumber = ["919174493135@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@badnobita776"
 global.websitex = "GitHub.com/nobi-2"
-global.wagc = "https://chat.whatsapp.com/FnMfdfQADzZKrT0wQCSjGK"
+global.wagc = "https://chat.whatsapp.com/BvXWEFsHfJA1guxS9JYn8C"
 global.themeemoji = '🐈‍⬛'
 global.wm = "ɳσႦιƚα🖤."
 global.botscript = 'https://github.com/nobi-2/cheems8' //script link
 global.packname = "ɳσႦιƚα🐈‍⬛"
 global.author = "ɳσႦιƚα 🖤\n\n"
-global.creator = "917000562148@s.whatsapp.net"
+global.creator = "919174493135@s.whatsapp.net"
 global.prefa = ['','!','.','#','&','/',':']
 global.sessionName = 'session'
 global.hituet = 0
