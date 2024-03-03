@@ -260,7 +260,7 @@ XeonBotInc.sendMessage(anu.id,
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 😹」
+│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 🥹」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
